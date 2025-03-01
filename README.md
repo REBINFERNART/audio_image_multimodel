@@ -81,5 +81,5 @@ This project is licensed under the MIT License.
 Author
 
 [K.REBIN FERNART] - [krebinfernart@gmail.com]
-Hugging Face (1)- https://huggingface.co/spaces/REBIN007/Audio_to_image_model(speech to image generation and description about the prombt)
-Hugging Face (2)- https://huggingface.co/spaces/REBIN007/speech_to_image(speech to image generation only )
+Hugging Face (1)- https://huggingface.co/spaces/REBIN007/Audio_to_image_model ,(speech to image generation and description about the prombt)
+Hugging Face (2)- https://huggingface.co/spaces/REBIN007/speech_to_image ,(speech to image generation only )
